@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "runtime_kind": "llama-server",
+  "executable_relative_path": "llama-server.exe",
+  "files": [
+    {
+      "relative_path": "dnnl.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-base.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-alderlake.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-cannonlake.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-cascadelake.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-cooperlake.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-haswell.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-icelake.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-ivybridge.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-piledriver.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-sandybridge.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-sapphirerapids.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-skylakex.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-sse42.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-x64.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu-zen4.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-rpc-server.exe",
+      "executable": true
+    },
+    {
+      "relative_path": "ggml-rpc.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-sycl.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml_llamacpp.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "libhwloc-15.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "libiomp5md.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "liblmstudio_bindings_vulkan.node",
+      "executable": false
+    },
+    {
+      "relative_path": "libmmd.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "libsycl-fallback-bfloat16.spv",
+      "executable": false
+    },
+    {
+      "relative_path": "libsycl-native-bfloat16.spv",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-common.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-server-impl.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-server.exe",
+      "executable": true
+    },
+    {
+      "relative_path": "llama.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llm_engine.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llm_engine_vulkan.node",
+      "executable": false
+    },
+    {
+      "relative_path": "lmstudiocore.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "mkl_core.2.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "mkl_sycl_blas.5.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "mkl_tbb_thread.2.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "MSVCP140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "mtmd.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "svml_dispmd.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "sycl8.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tbb12.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tcm.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "umf.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ur_adapter_level_zero.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ur_adapter_level_zero_v2.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ur_adapter_opencl.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ur_loader.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ur_win_proxy_loader.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCOMP140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCRUNTIME140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCRUNTIME140_1.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ze_loader.dll",
+      "executable": false
+    }
+  ]
+}

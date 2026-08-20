@@ -1,0 +1,1 @@
+[["en",{"langKey":"en","displayName":"SYCL llama.cpp (Windows)","description":"SYCL accelerated llama.cpp engine (Intel oneAPI Level Zero, for Intel Arc GPUs)","releaseNotes":[{"version":"2.29.1","releaseNotes":"- llama.cpp release b10516 (official prebuilt SYCL binaries)\n- Intel Arc A770 via Level Zero\n- CPU baseline x64 (AVX2)\n- Backend: ggml-sycl (Intel oneAPI)"}]}]]

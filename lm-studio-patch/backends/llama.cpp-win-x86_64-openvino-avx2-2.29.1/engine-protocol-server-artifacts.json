@@ -1,0 +1,175 @@
+{
+  "schema_version": 1,
+  "runtime_kind": "llama-server",
+  "executable_relative_path": "llama-server.exe",
+  "files": [
+    {
+      "relative_path": "ggml-base.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-cpu.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-openvino.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml-rpc-server.exe",
+      "executable": true
+    },
+    {
+      "relative_path": "ggml-rpc.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "ggml_llamacpp.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "liblmstudio_bindings_vulkan.node",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-common.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-server-impl.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llama-server-real.exe",
+      "executable": true
+    },
+    {
+      "relative_path": "llama-server.exe",
+      "executable": true
+    },
+    {
+      "relative_path": "llama.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llm_engine.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "llm_engine_vulkan.node",
+      "executable": false
+    },
+    {
+      "relative_path": "lmstudiocore.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "MSVCP140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "mtmd.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "OpenCL.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_auto_batch_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_auto_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_hetero_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_cpu_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_gpu_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_npu_compiler.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_npu_compiler_loader.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_npu_plugin.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_intel_npu_vm_runtime.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_ir_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_onnx_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_paddle_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_pytorch_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_tensorflow_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "openvino_tensorflow_lite_frontend.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tbb12.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tbbbind_2_5.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tbbmalloc.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "tbbmalloc_proxy.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCOMP140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCRUNTIME140.dll",
+      "executable": false
+    },
+    {
+      "relative_path": "VCRUNTIME140_1.dll",
+      "executable": false
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "llama.cpp-win-x86_64-sycl-avx2",
+  "domains": [
+    "llm",
+    "embedding"
+  ],
+  "version": "2.29.1",
+  "engine": "llama.cpp",
+  "target_libraries": [
+    {
+      "name": "llm_engine_vulkan.node",
+      "type": "llm_engine",
+      "version": "0.1.2"
+    },
+    {
+      "name": "liblmstudio_bindings_vulkan.node",
+      "type": "liblmstudio",
+      "version": "0.2.26"
+    }
+  ],
+  "platform": "win",
+  "cpu": {
+    "architecture": "x86_64",
+    "instruction_set_extensions": [
+      "AVX2"
+    ]
+  },
+  "gpu": {
+    "framework": "Vulkan"
+  },
+  "supported_model_formats": [
+    "gguf"
+  ],
+  "manifest_version": "4",
+  "extension_type": "engine",
+  "minimum_lmstudio_version": "0.4.0+15",
+  "minimum_llmster_version": "0.0.1+9",
+  "engine_protocol_server": {
+    "runtime_kind": "llama-server",
+    "executable_relative_path": "llama-server.exe"
+  }
+}
